@@ -7,3 +7,17 @@ Meu nome é **Bruno Figueredo**, Eu nasci em _Maio de 2010_, atualmente oque eu 
 - ([Jogar RPG;](https://pt.wikipedia.org/wiki/Role-playing_game))
 - progrmar;
 - Praticar Esportes;
+
+
+## Meu primeiro programa
+O código abaixo é um clássico "Hello, world!" na linguagem C, utilizando a função `printf()` para exibir a mensagem na tela.
+
+```c
+#include <stdio.h>
+
+int main() {
+    printf("Hello, world!\n");
+    return 0;
+}
+
+```
